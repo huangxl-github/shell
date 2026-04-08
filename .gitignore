@@ -1,0 +1,22 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs generated while testing scripts
+*.log
+logs/
+
+# Generated backup files (if you run the backup script locally)
+backup_*.tar.gz
+
+# Temporary files from scripts
+tmp/
+temp/
+.cache/
